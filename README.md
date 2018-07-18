@@ -1,0 +1,2 @@
+# ABControllerLife
+ABController切换生命周期方法调用顺序
